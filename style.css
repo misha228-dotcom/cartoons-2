@@ -101,7 +101,7 @@ gap: 107px;
 
 .coco-container{
   display: flex;
-    align-items: center;
+    
     justify-content: space-between;
 gap: 107px;
 flex-direction: row-reverse;
@@ -135,7 +135,7 @@ flex-direction: row-reverse;
     font-size: 14px;
     line-height: 22.08px;
     letter-spacing: 0%;
-    ;
+    
     
 }
 .coco-link{
@@ -149,7 +149,7 @@ flex-direction: row-reverse;
   font-size: 16px;
   letter-spacing: 0%;
   color: #000000;
-  margin-bottom:185px;
+  
 }
 
 
